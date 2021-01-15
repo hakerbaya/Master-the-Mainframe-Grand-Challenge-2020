@@ -31,11 +31,13 @@ chmod +x *
 
 
 ## Examples Usage
+```
   handyz.py : Return List Of Jobs
   handyz.py <USERID> : Return List Of Jobs
   handyz.py <USERID> -d "<DATASET_NAME>" : Submits Job, it must be JCL  <DATASET_NAME> : "MTM2020.PUBLIC.JCL(CHK)"
   handyz.py <USERID> <JOBID> -o <OPTION_NAME> : Choose Option Name in a list:
                                                  list-dds, cancel, submit, cc-status
+```
 
 ## Acknowledgements
 I would like to thank IBM for their wonderful [Master the Mainframe 2020](https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe) challenge.
