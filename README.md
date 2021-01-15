@@ -49,8 +49,8 @@ The crash course on USS, REXX, COBOL, Bash and Python scripting as well as LXSS,
 This project is licenced under the [MIT](LICENSE) license.
 
 ## Screenshots
-![SC1]https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC2.png
-![SC2]https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC3.png
+![SC1](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC2.png)
+![SC2](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC3.png)
 
 ## Submission Poster
 ![MtM 2020 Grand Challenge Submission Poster](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/POSTER.png)
