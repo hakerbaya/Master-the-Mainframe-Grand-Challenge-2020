@@ -53,4 +53,4 @@ This project is licenced under the [MIT](LICENSE) license.
 ![SC2]https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC3.png
 
 ## Submission Poster
-![MtM 2020 Grand Challenge Submission Poster](img/Dashy-ZOAU.png)
+![MtM 2020 Grand Challenge Submission Poster](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/POSTER.png)
