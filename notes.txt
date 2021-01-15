@@ -1,0 +1,39 @@
+Notes:
+======
+Python Tool to submit, cancel or get relevant Job Information using ZOAU Util.
+This Tool is very handy for Beginners, specifically new mainframers.
+
+Folks can enjoy terminal experience:
+ * Submit Jobs.
+ * Cancel Jobs.
+ * Get list of jobs.
+ * Get Status and relevant information about jobs.
+
+Examples: 
+
+# handyz.py z00162  return list of jobs.
+# handyz.py z00162 JOB02811 -o cc-status     : Get STATUS of JOB
+# handyz.py z00162 -d "MTM2020.PUBLIC.JCL(CHK)"    : Submit a job.
+
+# Example Usage:
+# handyz.py : Return List Of Jobs
+# handyz.py <USERID> : Return List Of Jobs
+# handyz.py <USERID> -d "<DATASET_NAME>" : Submits Job, it must be JCL  <DATASET_NAME> : "MTM2020.PUBLIC.JCL(CHK)"
+# handyz.py <USERID> <JOBID> -o <OPTION_NAME> : Choose Option Name in a list:
+#                                               list-dds, cancel, submit, cc-status
+  Check tool for more information. :)
+
+
+
+
+
+Directions
+==========
+1. go to directory   "/z/z00162"
+2. cd "MTM_GRAND_2021"
+3. chmod +x *
+4. ./build.sh        "Install Requirements"
+5. handyz.py         
+6. handyz.py --help   "For Tool Help"
+7. Enjoy Hacking. 
+
