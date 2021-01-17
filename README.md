@@ -26,7 +26,7 @@ cd MTM_GRAND_2021/
 chmod +x *
 
 # Run the setup script to install all modules
-./build.sh
+./install.sh
 ```
 
 
@@ -48,8 +48,9 @@ The crash course on USS, REXX, COBOL, Bash and Python scripting as well as LXSS,
 ## Licence
 This project is licenced under the [MIT](LICENSE) license.
 
-## Screenshots
+## Screenshot 1
 ![SC1](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC2.png)
+## Screenshot 2
 ![SC2](https://raw.githubusercontent.com/hakerbaya/Master-the-Mainframe-Grand-Challenge-2020/master/Screenshots/SC3.png)
 
 ## Submission Poster
